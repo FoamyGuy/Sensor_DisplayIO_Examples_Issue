@@ -1,0 +1,297 @@
+/usr/bin/python3.10 /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/make_issues.py 
+Adafruit_CircuitPython_DS3231 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_DS3231
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_DS3231/issues/48
+Adafruit_CircuitPython_FXOS8700 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_FXOS8700
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700/issues/33
+Adafruit_CircuitPython_LTR390 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LTR390
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LTR390/issues/16
+Adafruit_CircuitPython_MPL3115A2 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MPL3115A2
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2/issues/30
+Adafruit_CircuitPython_VCNL4020 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VCNL4020
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020/issues/3
+Adafruit_CircuitPython_HCSR04 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_HCSR04
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_HCSR04/issues/31
+Adafruit_CircuitPython_MPU6050 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MPU6050
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MPU6050/issues/37
+Adafruit_CircuitPython_MAX31856 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MAX31856
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31856/issues/29
+Adafruit_CircuitPython_APDS9960 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_APDS9960
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_APDS9960/issues/46
+Adafruit_CircuitPython_BNO08x_RVC - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BNO08x_RVC
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BNO08x_RVC/issues/7
+Adafruit_CircuitPython_FXAS21002C - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_FXAS21002C
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C/issues/33
+Adafruit_CircuitPython_DS1307 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_DS1307
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_DS1307/issues/31
+Adafruit_CircuitPython_MPL115A2 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MPL115A2
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MPL115A2/issues/13
+Adafruit_CircuitPython_BH1750 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BH1750
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BH1750/issues/10
+Adafruit_CircuitPython_LIS2MDL - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LIS2MDL
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL/issues/18
+Adafruit_CircuitPython_MCP9600 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MCP9600
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MCP9600/issues/25
+Adafruit_CircuitPython_US100 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_US100
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_US100/issues/21
+Adafruit_CircuitPython_ADT7410 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_ADT7410
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_ADT7410/issues/25
+Adafruit_CircuitPython_HTU31D - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_HTU31D
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_HTU31D/issues/13
+Adafruit_CircuitPython_SHT31D - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SHT31D
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SHT31D/issues/35
+Adafruit_CircuitPython_LSM9DS1 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM9DS1
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1/issues/38
+Adafruit_CircuitPython_LIS3DH - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LIS3DH
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH/issues/80
+Adafruit_CircuitPython_AHTx0 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_AHTx0
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_AHTx0/issues/21
+Adafruit_CircuitPython_ADXL34x - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_ADXL34x
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x/issues/41
+Adafruit_CircuitPython_LPS35HW - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LPS35HW
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW/issues/14
+Adafruit_CircuitPython_RPLIDAR - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_RPLIDAR
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR/issues/30
+Adafruit_CircuitPython_LSM303DLH_Mag - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM303DLH_Mag
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag/issues/21
+Adafruit_CircuitPython_TSL2591 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TSL2591
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TSL2591/issues/28
+Adafruit_CircuitPython_PCF8563 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_PCF8563
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_PCF8563/issues/7
+Adafruit_CircuitPython_LIS3MDL - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LIS3MDL
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL/issues/27
+Adafruit_CircuitPython_HTS221 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_HTS221
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_HTS221/issues/12
+Adafruit_CircuitPython_VCNL4040 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VCNL4040
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040/issues/17
+Adafruit_CircuitPython_SGP40 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SGP40
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SGP40/issues/24
+Adafruit_CircuitPython_MMA8451 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MMA8451
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MMA8451/issues/24
+Adafruit_CircuitPython_BNO055 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BNO055
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BNO055/issues/123
+Adafruit_CircuitPython_MCP9808 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MCP9808
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MCP9808/issues/38
+Adafruit_CircuitPython_TMP117 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TMP117
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TMP117/issues/16
+Adafruit_CircuitPython_MSA301 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MSA301
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MSA301/issues/20
+Adafruit_CircuitPython_CCS811 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_CCS811
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_CCS811/issues/51
+Adafruit_CircuitPython_DPS310 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_DPS310
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_DPS310/issues/29
+Adafruit_CircuitPython_DS18X20 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_DS18X20
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_DS18X20/issues/30
+Adafruit_CircuitPython_AGS02MA - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_AGS02MA
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_AGS02MA/issues/5
+Adafruit_CircuitPython_VEML6075 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VEML6075
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VEML6075/issues/18
+Adafruit_CircuitPython_TFmini - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TFmini
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TFmini/issues/15
+Adafruit_CircuitPython_LSM6DS - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM6DS
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS/issues/64
+Adafruit_CircuitPython_VL53L1X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VL53L1X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X/issues/18
+Adafruit_CircuitPython_MAX31855 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MAX31855
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31855/issues/31
+Adafruit_CircuitPython_MMC56x3 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MMC56x3
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3/issues/5
+Adafruit_CircuitPython_ICM20X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_ICM20X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_ICM20X/issues/23
+Adafruit_CircuitPython_MLX90395 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MLX90395
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MLX90395/issues/5
+Adafruit_CircuitPython_AM2320 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_AM2320
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_AM2320/issues/29
+Adafruit_CircuitPython_MPRLS - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MPRLS
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MPRLS/issues/19
+Adafruit_CircuitPython_SI7021 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SI7021
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SI7021/issues/38
+Adafruit_CircuitPython_LSM9DS0 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM9DS0
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0/issues/25
+Adafruit_CircuitPython_LTR329_LTR303 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LTR329_LTR303
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LTR329_LTR303/issues/9
+Adafruit_CircuitPython_BME280 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BME280
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BME280/issues/68
+Adafruit_CircuitPython_HTU21D - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_HTU21D
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_HTU21D/issues/24
+Adafruit_CircuitPython_AS7341 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_AS7341
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_AS7341/issues/41
+Adafruit_CircuitPython_MLX90614 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MLX90614
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MLX90614/issues/24
+Adafruit_CircuitPython_LIS331 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LIS331
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LIS331/issues/8
+Adafruit_CircuitPython_LSM303_Accel - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM303_Accel
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel/issues/17
+Adafruit_CircuitPython_SGP30 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SGP30
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SGP30/issues/41
+Adafruit_CircuitPython_LPS2X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LPS2X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LPS2X/issues/16
+Adafruit_CircuitPython_TLV493D - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TLV493D
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TLV493D/issues/18
+Adafruit_CircuitPython_MS8607 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MS8607
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MS8607/issues/15
+Adafruit_CircuitPython_MAX31865 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MAX31865
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MAX31865/issues/41
+Adafruit_CircuitPython_GPS - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_GPS
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_GPS/issues/110
+Adafruit_CircuitPython_TSL2561 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TSL2561
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TSL2561/issues/39
+Adafruit_CircuitPython_L3GD20 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_L3GD20
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_L3GD20/issues/29
+Adafruit_CircuitPython_LSM303 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LSM303
+running make_issue.sh
+GraphQL: Repository was archived so is read-only (createIssue)
+Adafruit_CircuitPython_TMP006 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TMP006
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TMP006/issues/16
+Adafruit_CircuitPython_TCS34725 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TCS34725
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TCS34725/issues/43
+Adafruit_CircuitPython_VEML7700 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VEML7700
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VEML7700/issues/30
+Adafruit_CircuitPython_BNO08x - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BNO08x
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BNO08x/issues/51
+Adafruit_CircuitPython_AS726x - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_AS726x
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_AS726x/issues/21
+Adafruit_CircuitPython_VL6180X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VL6180X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VL6180X/issues/32
+Adafruit_CircuitPython_LIDARLite - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_LIDARLite
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite/issues/22
+Adafruit_CircuitPython_BMP280 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BMP280
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BMP280/issues/42
+Adafruit_CircuitPython_MLX90393 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_MLX90393
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_MLX90393/issues/41
+Adafruit_CircuitPython_TC74 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TC74
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TC74/issues/9
+Adafruit_CircuitPython_PCT2075 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_PCT2075
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_PCT2075/issues/24
+Adafruit_CircuitPython_TMP007 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_TMP007
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_TMP007/issues/14
+Adafruit_CircuitPython_PCF8523 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_PCF8523
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_PCF8523/issues/33
+Adafruit_CircuitPython_ENS160 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_ENS160
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_ENS160/issues/4
+Adafruit_CircuitPython_Thermistor - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_Thermistor
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_Thermistor/issues/23
+Adafruit_CircuitPython_SI1145 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SI1145
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SI1145/issues/20
+Adafruit_CircuitPython_SCD30 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SCD30
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SCD30/issues/36
+Adafruit_CircuitPython_BMP3XX - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_BMP3XX
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX/issues/24
+Adafruit_CircuitPython_VL53L4CD - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VL53L4CD
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VL53L4CD/issues/16
+Adafruit_CircuitPython_SHTC3 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SHTC3
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SHTC3/issues/21
+Adafruit_CircuitPython_VEML6070 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VEML6070
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VEML6070/issues/25
+Adafruit_CircuitPython_PM25 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_PM25
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_PM25/issues/26
+Adafruit_CircuitPython_VCNL4010 - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VCNL4010
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010/issues/25
+Adafruit_CircuitPython_SHT4x - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SHT4x
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SHT4x/issues/14
+Adafruit_CircuitPython_VL53L0X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_VL53L0X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X/issues/39
+Adafruit_CircuitPython_SCD4X - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_SCD4X
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_SCD4X/issues/21
+Adafruit_CircuitPython_ADXL37x - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_ADXL37x
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_ADXL37x/issues/6
+Adafruit_CircuitPython_DHT - /home/home_dir/repos/circuitpython/Sensor_Displayio_goodfirstissues/repo_workspace/Adafruit_CircuitPython_DHT
+running make_issue.sh
+https://github.com/adafruit/Adafruit_CircuitPython_DHT/issues/99
+
+Process finished with exit code 0

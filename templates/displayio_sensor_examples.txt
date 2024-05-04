@@ -1,0 +1,13 @@
+Add a Basic DisplayIO Based Example
+
+We would like to have a basic displayio example for this library. The example should be written for microcontrollers with a built-in display. At a minimum it should show a Label on the display and update it with live readings from the sensor. 
+
+The example should not be overly complex, it's intended to be a good starting point for displayio based projects that utilize this sensor library. Try to keep all visual content as near to the top left corner as possible in order to best fascilitate devices with small built-in display resolutions.
+
+The new example should follow the naming convention `examples/libraryname_displayio_simpletest.py` with "libraryname" being replaced by the actual name of this library.
+
+You can find an example of a Pull Request that adds this kind of example here: https://github.com/adafruit/Adafruit_CircuitPython_BME680/pull/72
+
+We have a guide that covers the process of contributing with git and github: https://learn.adafruit.com/contribute-to-circuitpython-with-git-and-github
+
+If you're interested in contributing but need additional help, or just want to say hi, feel free to join the Discord server to ask questions: https://adafru.it/discord

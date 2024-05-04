@@ -1,0 +1,104 @@
+DS1307 Real-time Clock (5V RTC Breakout) <https://docs.circuitpython.org/projects/ds1307/en/latest/>
+DS3231 Real-time Clock (Precision RTC) <https://docs.circuitpython.org/projects/ds3231/en/latest/>
+PCF8523 Real-time Clock (Adalogger RTC) <https://docs.circuitpython.org/projects/pcf8523/en/latest/>
+PCF8563 Real-time Clock <https://docs.circuitpython.org/projects/pcf8563/en/latest/>
+
+ADXL34x 3 Axis Accelerometer <https://docs.circuitpython.org/projects/adxl34x/en/latest/>
+ADXL37x 3 Axis Accelerometer <https://docs.circuitpython.org/projects/adxl37x/en/latest/>
+BNO055 Accelerometer, Magnetometer, Gyroscope and Absolution Orientation <https://docs.circuitpython.org/projects/bno055/en/latest/>
+BNO08X  9 Axis Sensor Fusion IMU <https://docs.circuitpython.org/projects/bno08x/en/latest/>
+BNO08X_RVC Simple UART Heading Library <https://docs.circuitpython.org/projects/bno08x_rvc/en/latest/>
+FXAS21002C Gyroscope <https://docs.circuitpython.org/projects/fxas21002c/en/latest/>
+FXOS8700 Accelerometer <https://docs.circuitpython.org/projects/fxos8700/en/latest/>
+GPS Global Position <https://docs.circuitpython.org/projects/gps/en/latest/>
+ICM20X Wide-range 6-DoF Accelerometer and Gyro Family <https://docs.circuitpython.org/projects/icm20x/en/latest/>
+L3GD20 3-Axis Gyroscope <https://docs.circuitpython.org/projects/l3gd20/en/latest/>
+LIS2MDL 3-Axis Magnetometer <https://docs.circuitpython.org/projects/lis2mdl/en/latest/>
+LIS331HH and H3LIS331 3-Axis Accelerometers <https://docs.circuitpython.org/projects/lis331/en/latest/>
+LIS3DH Accelerometer <https://docs.circuitpython.org/projects/lis3dh/en/latest/>
+LIS3MDL 3-Axis Magnetometer <https://docs.circuitpython.org/projects/lis3mdl/en/latest/>
+LSM303 Accelerometer Only<https://docs.circuitpython.org/projects/lsm303-accel/en/latest/>
+LSM303 Accelerometer and Magnetometer <https://docs.circuitpython.org/projects/lsm303/en/latest/>
+LSM303DLH Magnetometer Only<https://docs.circuitpython.org/projects/lsm303dlh-mag/en/latest/>
+LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://docs.circuitpython.org/projects/lsm6dsox/en/latest/>
+LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://docs.circuitpython.org/projects/lsm9ds0/en/latest/>
+LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://docs.circuitpython.org/projects/lsm9ds1/en/latest/>
+MLX90393 3 Axis Magnetometer <https://docs.circuitpython.org/projects/mlx90393/en/latest/>
+MLX90395 3-Axis Magnetometer <https://docs.circuitpython.org/projects/mlx90395/en/latest/>
+MMA8451 3 Axis Accelerometer <https://docs.circuitpython.org/projects/mma8451/en/latest/>
+MMC56X3 Magnetometers <https://docs.circuitpython.org/projects/mmc56x3/en/latest/>
+MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://docs.circuitpython.org/projects/mpu6050/en/latest/>
+MSA301 3 Axis Accelerometer <https://docs.circuitpython.org/projects/msa301/en/latest/>
+TLV493D 3 Axis Magnetometer <https://docs.circuitpython.org/projects/tlv493d/en/latest/>
+
+ADT7410 High Accuracy Temperature Sensor <https://docs.circuitpython.org/projects/adt7410/en/latest/>
+AGS02MA Gas Sensor <https://docs.circuitpython.org/projects/ags02ma/en/latest/>
+AHTx0 Tempertaure and Humidity Sensor <https://docs.circuitpython.org/projects/ahtx0/en/latest/>
+AM2320 Temperature and Humidity <https://docs.circuitpython.org/projects/am2320/en/latest/>
+BME280 Temperature, Humidity and Pressure <https://docs.circuitpython.org/projects/bme280/en/latest/>
+BME680 Temperature, Humidity, Pressure and Gas <https://docs.circuitpython.org/projects/bme680/en/latest/>
+BMP280 Barometric Pressure and Altitude <https://docs.circuitpython.org/projects/bmp280/en/latest/>
+BMP3xx Barometric Pressure and Altimeter <https://docs.circuitpython.org/projects/bmp3xx/en/latest/>
+CCS811 Air Quality <https://docs.circuitpython.org/projects/ccs811/en/latest/>
+DHT Temperature and Humidity <https://docs.circuitpython.org/projects/dht/en/latest/>
+DPS310 Precision Barometric Pressure / Altitude Sensor <https://docs.circuitpython.org/projects/dps310/en/latest/>
+DS18x20 Temperature <https://docs.circuitpython.org/projects/ds18x20/en/latest/>
+ENS160 (ScioSense) digital multi-gas sensor <https://docs.circuitpython.org/projects/ens160/en/latest/>
+HTS221 Temperature and Humidity Sensor <https://docs.circuitpython.org/projects/hts221/en/latest/>
+HTU21D Temperature and Humidity <https://docs.circuitpython.org/projects/htu21d/en/latest/>
+HTU31D Temperature and Humidity <https://docs.circuitpython.org/projects/htu31d/en/latest/>
+LPS2X Family of Barometric Pressure, Temperature Sensors <https://docs.circuitpython.org/projects/lps2x/en/latest/>
+LPS35HW Water Resistant Barometric Pressure, Temperature <https://docs.circuitpython.org/projects/lps35hw/en/latest/>
+SGP40 Air Quality Sensor <https://docs.circuitpython.org/projects/sgp40/en/latest/>
+MAX31855 Thermocouple Amplifier, Temperature <https://docs.circuitpython.org/projects/max31855/en/latest/>
+MAX31856 Thermocouple Amplifier, Temperature <https://docs.circuitpython.org/projects/max31856/en/latest/>
+MAX31865 Thermocouple Amplifier, Temperature <https://docs.circuitpython.org/projects/max31865/en/latest/>
+MCP9600 Thermocouple Amplifier <https://docs.circuitpython.org/projects/mcp9600/en/latest/>
+MCP9808 Temperature <https://docs.circuitpython.org/projects/mcp9808/en/latest/>
+MLX90614 Contactless Temperature <https://docs.circuitpython.org/projects/mlx90614/en/latest/>
+MPL115A2 Barometric Pressure, Temperature <https://docs.circuitpython.org/projects/mpl115a2/en/latest/>
+MPL3115A2 Barometric Pressure, Altitude and Temperature Sensor <https://docs.circuitpython.org/projects/mpl3115a2/en/latest/>
+MPRLS Ported Absolute Pressure <https://docs.circuitpython.org/projects/mprls/en/latest/>
+MS8607 Pressure, Temperature, Humidity <https://docs.circuitpython.org/projects/ms8607/en/latest/>
+PCT2075 Temperature Sensor <https://docs.circuitpython.org/projects/pct2075/en/latest/>
+PM25 Air Quality Sensor <https://docs.circuitpython.org/projects/pm25/en/latest/>
+SCD30 CO2, Temperature, and Humidity Sensor <https://docs.circuitpython.org/projects/scd30/en/latest/>
+SCD4x Temperature and Humidity Sensor <https://docs.circuitpython.org/projects/scd4x/en/latest/>
+SGP30 Air Quality <https://docs.circuitpython.org/projects/sgp30/en/latest/>
+SHT31-D Temperature and Humidity <https://docs.circuitpython.org/projects/sht31d/en/latest/>
+SHT4x Temperature and Humidity <https://docs.circuitpython.org/projects/sht4x/en/latest/>
+SHTC3 Temperature and Humidity <https://docs.circuitpython.org/projects/shtc3/en/latest/>
+Si7021 Temperature and Humidity <https://docs.circuitpython.org/projects/si7021/en/latest/>
+TC74 Digital Temperature Sensor <https://docs.circuitpython.org/projects/tc74/en/latest/>
+TMP006 Contactless IR Thermopile Sensor <https://docs.circuitpython.org/projects/tmp006/en/latest/>
+TMP007 Contactless Temperature <https://docs.circuitpython.org/projects/tmp007/en/latest/>
+TMP117 High-Precision Temperature Sensor <https://docs.circuitpython.org/projects/tmp117/en/latest/>
+Thermistor Temperature <https://docs.circuitpython.org/projects/thermistor/en/latest/>
+
+APDS9960 Proximity, Light, RGB, and Gesture <https://docs.circuitpython.org/projects/apds9960/en/latest/>
+AS726x Color Spectrum Sensor <https://docs.circuitpython.org/projects/as726x/en/latest/>
+AS7341 11-Channel Multi-Spectral Digital Sensor <https://docs.circuitpython.org/projects/as7341/en/latest/>
+BH1750 Ambient Light <https://docs.circuitpython.org/projects/bh1750/en/latest/>
+GUVx I2C UV Light Sensors <https://docs.circuitpython.org/projects/guvx-i2c/en/latest/>
+LTR329 LTR303 Light Sensors <https://docs.circuitpython.org/projects/ltr329-ltr303/en/latest/>
+LTR390 Ambient Light and UV Sensor <https://docs.circuitpython.org/projects/ltr390/en/latest/>
+TCS34725 Color Sensor <https://docs.circuitpython.org/projects/tcs34725/en/latest/>
+TSL2561 Light Sensor <https://docs.circuitpython.org/projects/tsl2561/en/latest/>
+TSL2591 High Dynamic Range Light Sensor <https://docs.circuitpython.org/projects/tsl2591/en/latest/>
+VCNL4010 Proximity and Light <https://docs.circuitpython.org/projects/vcnl4010/en/latest/>
+VCNL4020 Proximity and Light <https://docs.circuitpython.org/projects/vcnl4020/en/latest/>
+VCNL4040 Proximity and Light <https://docs.circuitpython.org/projects/vcnl4040/en/latest/>
+VEML6070 UV Index <https://docs.circuitpython.org/projects/veml6070/en/latest/>
+VEML6075 UV Index <https://docs.circuitpython.org/projects/veml6075/en/latest/>
+VEML7700 High Accuracy Ambient Light Sensor <https://docs.circuitpython.org/projects/veml7700/en/latest/>
+SI1145 Digital UV Index IR Visible Light Sensor <https://docs.circuitpython.org/projects/si1145/en/latest/>
+
+Garmin LIDARLite I2C <https://docs.circuitpython.org/projects/lidarlite/en/latest/>
+HC-SR04 Ultrasonic Range Sensors <https://docs.circuitpython.org/projects/hcsr04/en/latest/>
+Slamtech RPLidar <https://docs.circuitpython.org/projects/rplidar/en/latest/>
+TFmini IR Time of Flight ~30cm - 12m <https://docs.circuitpython.org/projects/tfmini/en/latest/>
+US-100 Ultrasonic Distance Sensor <https://docs.circuitpython.org/projects/us100/en/latest/>
+VL6180x 5 - 100 mm <https://docs.circuitpython.org/projects/vl6180x/en/latest/>
+VL53L0x ~30 - 1000 mm <https://docs.circuitpython.org/projects/vl53l0x/en/latest/>
+VL53L1X ~30 - 4000 mm <https://docs.circuitpython.org/projects/vl53l1x/en/latest/>
+VL53L4CD Time of Flight <https://docs.circuitpython.org/projects/vl53l4cd/en/latest/>
